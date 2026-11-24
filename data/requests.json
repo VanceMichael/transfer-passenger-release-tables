@@ -47,5 +47,28 @@
     "cohort": "transfer",
     "as_of": "2026-09-03",
     "media": "media-b"
+  },
+  {
+    "id": "draft-east",
+    "period": "2026-08",
+    "scope": {
+      "market": "east"
+    },
+    "groupby": [],
+    "cohort": "transfer",
+    "as_of": "2026-09-10",
+    "media": "media-a"
+  },
+  {
+    "id": "draft-east-off",
+    "period": "2026-08",
+    "scope": {
+      "market": "east",
+      "slot": "off"
+    },
+    "groupby": [],
+    "cohort": "transfer",
+    "as_of": "2026-09-10",
+    "media": "media-b"
   }
 ]
