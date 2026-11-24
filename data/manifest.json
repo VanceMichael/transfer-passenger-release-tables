@@ -1,0 +1,89 @@
+{
+  "movement": {
+    "fields": [
+      "id",
+      "day",
+      "market",
+      "carrier",
+      "slot",
+      "direction"
+    ],
+    "key": [
+      "id"
+    ]
+  },
+  "boarding": {
+    "fields": [
+      "movement",
+      "passenger_token",
+      "remains_aircraft"
+    ],
+    "key": [
+      "movement"
+    ]
+  },
+  "link": {
+    "fields": [
+      "id",
+      "arriving",
+      "leaving",
+      "kind",
+      "known",
+      "replaces"
+    ],
+    "key": [
+      "id"
+    ]
+  },
+  "markets": {
+    "fields": [
+      "key",
+      "since",
+      "public_group"
+    ],
+    "key": [
+      "key",
+      "since"
+    ]
+  },
+  "policy": {
+    "fields": [
+      "id",
+      "minimum_cell",
+      "dimensions",
+      "hierarchy",
+      "track_zero"
+    ],
+    "key": [
+      "id"
+    ]
+  },
+  "publications": {
+    "fields": [
+      "id",
+      "issued",
+      "period",
+      "scope",
+      "dimensions",
+      "cohort",
+      "exact_count"
+    ],
+    "key": [
+      "id"
+    ]
+  },
+  "requests": {
+    "fields": [
+      "id",
+      "period",
+      "scope",
+      "groupby",
+      "cohort",
+      "as_of",
+      "media"
+    ],
+    "key": [
+      "id"
+    ]
+  }
+}

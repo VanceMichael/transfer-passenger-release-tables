@@ -1,0 +1,22 @@
+[
+  {
+    "key": "local",
+    "since": "2025-01-01",
+    "public_group": "home"
+  },
+  {
+    "key": "east",
+    "since": "2025-01-01",
+    "public_group": "pacific"
+  },
+  {
+    "key": "west",
+    "since": "2025-01-01",
+    "public_group": "continental"
+  },
+  {
+    "key": "west",
+    "since": "2026-08-01",
+    "public_group": "pacific"
+  }
+]

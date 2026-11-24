@@ -1,0 +1,51 @@
+[
+  {
+    "id": "request-a",
+    "period": "2026-07",
+    "scope": {
+      "market": "east"
+    },
+    "groupby": [
+      "slot"
+    ],
+    "cohort": "transfer",
+    "as_of": "2026-08-19",
+    "media": "media-a"
+  },
+  {
+    "id": "request-b",
+    "period": "2026-07",
+    "scope": {},
+    "groupby": [
+      "market",
+      "carrier"
+    ],
+    "cohort": "transfer",
+    "as_of": "2026-08-19",
+    "media": "media-b"
+  },
+  {
+    "id": "request-c",
+    "period": "2026-07",
+    "scope": {
+      "market": "west"
+    },
+    "groupby": [
+      "slot"
+    ],
+    "cohort": "transfer",
+    "as_of": "2026-09-03",
+    "media": "media-c"
+  },
+  {
+    "id": "annual-b",
+    "period": "2026-07",
+    "scope": {},
+    "groupby": [
+      "market"
+    ],
+    "cohort": "transfer",
+    "as_of": "2026-09-03",
+    "media": "media-b"
+  }
+]

@@ -1,0 +1,1586 @@
+[
+  {
+    "id": "l-2025-07-02",
+    "arriving": "2025-07-02-in",
+    "leaving": "2025-07-02-out",
+    "kind": "transfer",
+    "known": "2025-07-02",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-07-03",
+    "arriving": "2025-07-03-in",
+    "leaving": "2025-07-03-out",
+    "kind": "transfer",
+    "known": "2025-07-03",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-07-04",
+    "arriving": "2025-07-04-in",
+    "leaving": "2025-07-04-out",
+    "kind": "transfer",
+    "known": "2025-07-04",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-07-05",
+    "arriving": "2025-07-05-in",
+    "leaving": "2025-07-05-out",
+    "kind": "transfer",
+    "known": "2025-07-05",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-07-06",
+    "arriving": "2025-07-06-in",
+    "leaving": "2025-07-06-out",
+    "kind": "transfer",
+    "known": "2025-07-06",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-07-08",
+    "arriving": "2025-07-08-in",
+    "leaving": "2025-07-08-out",
+    "kind": "transfer",
+    "known": "2025-07-08",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-07-09",
+    "arriving": "2025-07-09-in",
+    "leaving": "2025-07-09-out",
+    "kind": "transfer",
+    "known": "2025-07-09",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-07-10",
+    "arriving": "2025-07-10-in",
+    "leaving": "2025-07-10-out",
+    "kind": "transfer",
+    "known": "2025-07-10",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-07-11",
+    "arriving": "2025-07-11-in",
+    "leaving": "2025-07-11-out",
+    "kind": "transfer",
+    "known": "2025-07-11",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-07-12",
+    "arriving": "2025-07-12-in",
+    "leaving": "2025-07-12-out",
+    "kind": "transfer",
+    "known": "2025-07-12",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-07-15",
+    "arriving": "2025-07-15-in",
+    "leaving": "2025-07-15-out",
+    "kind": "transfer",
+    "known": "2025-07-15",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-07-16",
+    "arriving": "2025-07-16-in",
+    "leaving": "2025-07-16-out",
+    "kind": "transfer",
+    "known": "2025-07-16",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-07-17",
+    "arriving": "2025-07-17-in",
+    "leaving": "2025-07-17-out",
+    "kind": "transfer",
+    "known": "2025-07-17",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-07-18",
+    "arriving": "2025-07-18-in",
+    "leaving": "2025-07-18-out",
+    "kind": "transfer",
+    "known": "2025-07-18",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-07-20",
+    "arriving": "2025-07-20-in",
+    "leaving": "2025-07-20-out",
+    "kind": "transfer",
+    "known": "2025-07-20",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-07-21",
+    "arriving": "2025-07-21-in",
+    "leaving": "2025-07-21-out",
+    "kind": "transfer",
+    "known": "2025-07-21",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-07-22",
+    "arriving": "2025-07-22-in",
+    "leaving": "2025-07-22-out",
+    "kind": "transfer",
+    "known": "2025-07-22",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-07-23",
+    "arriving": "2025-07-23-in",
+    "leaving": "2025-07-23-out",
+    "kind": "transfer",
+    "known": "2025-07-23",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-07-24",
+    "arriving": "2025-07-24-in",
+    "leaving": "2025-07-24-out",
+    "kind": "transfer",
+    "known": "2025-07-24",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-07-26",
+    "arriving": "2025-07-26-in",
+    "leaving": "2025-07-26-out",
+    "kind": "transfer",
+    "known": "2025-07-26",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-07-28",
+    "arriving": "2025-07-28-in",
+    "leaving": "2025-07-28-out",
+    "kind": "transfer",
+    "known": "2025-07-28",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-07-29",
+    "arriving": "2025-07-29-in",
+    "leaving": "2025-07-29-out",
+    "kind": "transfer",
+    "known": "2025-07-01",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-07-30",
+    "arriving": "2025-07-30-in",
+    "leaving": "2025-07-30-out",
+    "kind": "transfer",
+    "known": "2025-07-02",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-07-32",
+    "arriving": "2025-07-32-in",
+    "leaving": "2025-07-32-out",
+    "kind": "transfer",
+    "known": "2025-07-04",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-07-33",
+    "arriving": "2025-07-33-in",
+    "leaving": "2025-07-33-out",
+    "kind": "transfer",
+    "known": "2025-07-05",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-07-34",
+    "arriving": "2025-07-34-in",
+    "leaving": "2025-07-34-out",
+    "kind": "transfer",
+    "known": "2025-07-06",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-07-35",
+    "arriving": "2025-07-35-in",
+    "leaving": "2025-07-35-out",
+    "kind": "transfer",
+    "known": "2025-07-07",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-07-36",
+    "arriving": "2025-07-36-in",
+    "leaving": "2025-07-36-out",
+    "kind": "transfer",
+    "known": "2025-07-08",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-07-38",
+    "arriving": "2025-07-38-in",
+    "leaving": "2025-07-38-out",
+    "kind": "transfer",
+    "known": "2025-07-10",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-07-39",
+    "arriving": "2025-07-39-in",
+    "leaving": "2025-07-39-out",
+    "kind": "transfer",
+    "known": "2025-07-11",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-07-41",
+    "arriving": "2025-07-41-in",
+    "leaving": "2025-07-41-out",
+    "kind": "transfer",
+    "known": "2025-07-13",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-07-42",
+    "arriving": "2025-07-42-in",
+    "leaving": "2025-07-42-out",
+    "kind": "transfer",
+    "known": "2025-07-14",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-07-44",
+    "arriving": "2025-07-44-in",
+    "leaving": "2025-07-44-out",
+    "kind": "transfer",
+    "known": "2025-07-16",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-07-45",
+    "arriving": "2025-07-45-in",
+    "leaving": "2025-07-45-out",
+    "kind": "transfer",
+    "known": "2025-07-17",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-07-46",
+    "arriving": "2025-07-46-in",
+    "leaving": "2025-07-46-out",
+    "kind": "transfer",
+    "known": "2025-07-18",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-07-47",
+    "arriving": "2025-07-47-in",
+    "leaving": "2025-07-47-out",
+    "kind": "transfer",
+    "known": "2025-07-19",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-07-48",
+    "arriving": "2025-07-48-in",
+    "leaving": "2025-07-48-out",
+    "kind": "transfer",
+    "known": "2025-07-20",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-07-50",
+    "arriving": "2025-07-50-in",
+    "leaving": "2025-07-50-out",
+    "kind": "transfer",
+    "known": "2025-07-22",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-07-51",
+    "arriving": "2025-07-51-in",
+    "leaving": "2025-07-51-out",
+    "kind": "transfer",
+    "known": "2025-07-23",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-07-52",
+    "arriving": "2025-07-52-in",
+    "leaving": "2025-07-52-out",
+    "kind": "transfer",
+    "known": "2025-07-24",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-07-54",
+    "arriving": "2025-07-54-in",
+    "leaving": "2025-07-54-out",
+    "kind": "transfer",
+    "known": "2025-07-26",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-07-56",
+    "arriving": "2025-07-56-in",
+    "leaving": "2025-07-56-out",
+    "kind": "transfer",
+    "known": "2025-07-28",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-07-57",
+    "arriving": "2025-07-57-in",
+    "leaving": "2025-07-57-out",
+    "kind": "transfer",
+    "known": "2025-07-01",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-07-58",
+    "arriving": "2025-07-58-in",
+    "leaving": "2025-07-58-out",
+    "kind": "transfer",
+    "known": "2025-07-02",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-07-59",
+    "arriving": "2025-07-59-in",
+    "leaving": "2025-07-59-out",
+    "kind": "transfer",
+    "known": "2025-07-03",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-07-60",
+    "arriving": "2025-07-60-in",
+    "leaving": "2025-07-60-out",
+    "kind": "transfer",
+    "known": "2025-07-04",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-07-62",
+    "arriving": "2025-07-62-in",
+    "leaving": "2025-07-62-out",
+    "kind": "transfer",
+    "known": "2025-07-06",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-07-63",
+    "arriving": "2025-07-63-in",
+    "leaving": "2025-07-63-out",
+    "kind": "transfer",
+    "known": "2025-07-07",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-07-64",
+    "arriving": "2025-07-64-in",
+    "leaving": "2025-07-64-out",
+    "kind": "transfer",
+    "known": "2025-07-08",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-08-02",
+    "arriving": "2025-08-02-in",
+    "leaving": "2025-08-02-out",
+    "kind": "transfer",
+    "known": "2025-08-02",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-08-03",
+    "arriving": "2025-08-03-in",
+    "leaving": "2025-08-03-out",
+    "kind": "transfer",
+    "known": "2025-08-03",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-08-04",
+    "arriving": "2025-08-04-in",
+    "leaving": "2025-08-04-out",
+    "kind": "transfer",
+    "known": "2025-08-04",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-08-05",
+    "arriving": "2025-08-05-in",
+    "leaving": "2025-08-05-out",
+    "kind": "transfer",
+    "known": "2025-08-05",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-08-06",
+    "arriving": "2025-08-06-in",
+    "leaving": "2025-08-06-out",
+    "kind": "transfer",
+    "known": "2025-08-06",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-08-08",
+    "arriving": "2025-08-08-in",
+    "leaving": "2025-08-08-out",
+    "kind": "transfer",
+    "known": "2025-08-08",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-08-09",
+    "arriving": "2025-08-09-in",
+    "leaving": "2025-08-09-out",
+    "kind": "transfer",
+    "known": "2025-08-09",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-08-10",
+    "arriving": "2025-08-10-in",
+    "leaving": "2025-08-10-out",
+    "kind": "transfer",
+    "known": "2025-08-10",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-08-11",
+    "arriving": "2025-08-11-in",
+    "leaving": "2025-08-11-out",
+    "kind": "transfer",
+    "known": "2025-08-11",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-08-12",
+    "arriving": "2025-08-12-in",
+    "leaving": "2025-08-12-out",
+    "kind": "transfer",
+    "known": "2025-08-12",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-08-15",
+    "arriving": "2025-08-15-in",
+    "leaving": "2025-08-15-out",
+    "kind": "transfer",
+    "known": "2025-08-15",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-08-16",
+    "arriving": "2025-08-16-in",
+    "leaving": "2025-08-16-out",
+    "kind": "transfer",
+    "known": "2025-08-16",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-08-17",
+    "arriving": "2025-08-17-in",
+    "leaving": "2025-08-17-out",
+    "kind": "transfer",
+    "known": "2025-08-17",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-08-18",
+    "arriving": "2025-08-18-in",
+    "leaving": "2025-08-18-out",
+    "kind": "transfer",
+    "known": "2025-08-18",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-08-20",
+    "arriving": "2025-08-20-in",
+    "leaving": "2025-08-20-out",
+    "kind": "transfer",
+    "known": "2025-08-20",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-08-21",
+    "arriving": "2025-08-21-in",
+    "leaving": "2025-08-21-out",
+    "kind": "transfer",
+    "known": "2025-08-21",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-08-22",
+    "arriving": "2025-08-22-in",
+    "leaving": "2025-08-22-out",
+    "kind": "transfer",
+    "known": "2025-08-22",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-08-23",
+    "arriving": "2025-08-23-in",
+    "leaving": "2025-08-23-out",
+    "kind": "transfer",
+    "known": "2025-08-23",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-08-24",
+    "arriving": "2025-08-24-in",
+    "leaving": "2025-08-24-out",
+    "kind": "transfer",
+    "known": "2025-08-24",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-08-26",
+    "arriving": "2025-08-26-in",
+    "leaving": "2025-08-26-out",
+    "kind": "transfer",
+    "known": "2025-08-26",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-08-28",
+    "arriving": "2025-08-28-in",
+    "leaving": "2025-08-28-out",
+    "kind": "transfer",
+    "known": "2025-08-28",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-08-29",
+    "arriving": "2025-08-29-in",
+    "leaving": "2025-08-29-out",
+    "kind": "transfer",
+    "known": "2025-08-01",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-08-30",
+    "arriving": "2025-08-30-in",
+    "leaving": "2025-08-30-out",
+    "kind": "transfer",
+    "known": "2025-08-02",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-08-32",
+    "arriving": "2025-08-32-in",
+    "leaving": "2025-08-32-out",
+    "kind": "transfer",
+    "known": "2025-08-04",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-08-33",
+    "arriving": "2025-08-33-in",
+    "leaving": "2025-08-33-out",
+    "kind": "transfer",
+    "known": "2025-08-05",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-08-34",
+    "arriving": "2025-08-34-in",
+    "leaving": "2025-08-34-out",
+    "kind": "transfer",
+    "known": "2025-08-06",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-08-35",
+    "arriving": "2025-08-35-in",
+    "leaving": "2025-08-35-out",
+    "kind": "transfer",
+    "known": "2025-08-07",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-08-36",
+    "arriving": "2025-08-36-in",
+    "leaving": "2025-08-36-out",
+    "kind": "transfer",
+    "known": "2025-08-08",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-08-38",
+    "arriving": "2025-08-38-in",
+    "leaving": "2025-08-38-out",
+    "kind": "transfer",
+    "known": "2025-08-10",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-08-39",
+    "arriving": "2025-08-39-in",
+    "leaving": "2025-08-39-out",
+    "kind": "transfer",
+    "known": "2025-08-11",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-08-41",
+    "arriving": "2025-08-41-in",
+    "leaving": "2025-08-41-out",
+    "kind": "transfer",
+    "known": "2025-08-13",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-08-42",
+    "arriving": "2025-08-42-in",
+    "leaving": "2025-08-42-out",
+    "kind": "transfer",
+    "known": "2025-08-14",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-08-44",
+    "arriving": "2025-08-44-in",
+    "leaving": "2025-08-44-out",
+    "kind": "transfer",
+    "known": "2025-08-16",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-08-45",
+    "arriving": "2025-08-45-in",
+    "leaving": "2025-08-45-out",
+    "kind": "transfer",
+    "known": "2025-08-17",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-08-46",
+    "arriving": "2025-08-46-in",
+    "leaving": "2025-08-46-out",
+    "kind": "transfer",
+    "known": "2025-08-18",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-08-47",
+    "arriving": "2025-08-47-in",
+    "leaving": "2025-08-47-out",
+    "kind": "transfer",
+    "known": "2025-08-19",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-08-48",
+    "arriving": "2025-08-48-in",
+    "leaving": "2025-08-48-out",
+    "kind": "transfer",
+    "known": "2025-08-20",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-08-50",
+    "arriving": "2025-08-50-in",
+    "leaving": "2025-08-50-out",
+    "kind": "transfer",
+    "known": "2025-08-22",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-08-51",
+    "arriving": "2025-08-51-in",
+    "leaving": "2025-08-51-out",
+    "kind": "transfer",
+    "known": "2025-08-23",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-08-52",
+    "arriving": "2025-08-52-in",
+    "leaving": "2025-08-52-out",
+    "kind": "transfer",
+    "known": "2025-08-24",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-08-54",
+    "arriving": "2025-08-54-in",
+    "leaving": "2025-08-54-out",
+    "kind": "transfer",
+    "known": "2025-08-26",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-08-56",
+    "arriving": "2025-08-56-in",
+    "leaving": "2025-08-56-out",
+    "kind": "transfer",
+    "known": "2025-08-28",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-08-57",
+    "arriving": "2025-08-57-in",
+    "leaving": "2025-08-57-out",
+    "kind": "transfer",
+    "known": "2025-08-01",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-08-58",
+    "arriving": "2025-08-58-in",
+    "leaving": "2025-08-58-out",
+    "kind": "transfer",
+    "known": "2025-08-02",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-08-59",
+    "arriving": "2025-08-59-in",
+    "leaving": "2025-08-59-out",
+    "kind": "transfer",
+    "known": "2025-08-03",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-08-60",
+    "arriving": "2025-08-60-in",
+    "leaving": "2025-08-60-out",
+    "kind": "transfer",
+    "known": "2025-08-04",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-08-62",
+    "arriving": "2025-08-62-in",
+    "leaving": "2025-08-62-out",
+    "kind": "transfer",
+    "known": "2025-08-06",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-08-63",
+    "arriving": "2025-08-63-in",
+    "leaving": "2025-08-63-out",
+    "kind": "transfer",
+    "known": "2025-08-07",
+    "replaces": null
+  },
+  {
+    "id": "l-2025-08-64",
+    "arriving": "2025-08-64-in",
+    "leaving": "2025-08-64-out",
+    "kind": "transfer",
+    "known": "2025-08-08",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-07-02",
+    "arriving": "2026-07-02-in",
+    "leaving": "2026-07-02-out",
+    "kind": "transfer",
+    "known": "2026-07-02",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-07-03",
+    "arriving": "2026-07-03-in",
+    "leaving": "2026-07-03-out",
+    "kind": "transfer",
+    "known": "2026-07-03",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-07-04",
+    "arriving": "2026-07-04-in",
+    "leaving": "2026-07-04-out",
+    "kind": "transfer",
+    "known": "2026-07-04",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-07-05",
+    "arriving": "2026-07-05-in",
+    "leaving": "2026-07-05-out",
+    "kind": "transfer",
+    "known": "2026-07-05",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-07-06",
+    "arriving": "2026-07-06-in",
+    "leaving": "2026-07-06-out",
+    "kind": "transfer",
+    "known": "2026-07-06",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-07-08",
+    "arriving": "2026-07-08-in",
+    "leaving": "2026-07-08-out",
+    "kind": "transfer",
+    "known": "2026-07-08",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-07-09",
+    "arriving": "2026-07-09-in",
+    "leaving": "2026-07-09-out",
+    "kind": "transfer",
+    "known": "2026-07-09",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-07-10",
+    "arriving": "2026-07-10-in",
+    "leaving": "2026-07-10-out",
+    "kind": "transfer",
+    "known": "2026-07-10",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-07-11",
+    "arriving": "2026-07-11-in",
+    "leaving": "2026-07-11-out",
+    "kind": "transfer",
+    "known": "2026-07-11",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-07-12",
+    "arriving": "2026-07-12-in",
+    "leaving": "2026-07-12-out",
+    "kind": "transfer",
+    "known": "2026-07-12",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-07-15",
+    "arriving": "2026-07-15-in",
+    "leaving": "2026-07-15-out",
+    "kind": "transfer",
+    "known": "2026-07-15",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-07-16",
+    "arriving": "2026-07-16-in",
+    "leaving": "2026-07-16-out",
+    "kind": "transfer",
+    "known": "2026-07-16",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-07-17",
+    "arriving": "2026-07-17-in",
+    "leaving": "2026-07-17-out",
+    "kind": "transfer",
+    "known": "2026-07-17",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-07-18",
+    "arriving": "2026-07-18-in",
+    "leaving": "2026-07-18-out",
+    "kind": "transfer",
+    "known": "2026-07-18",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-07-20",
+    "arriving": "2026-07-20-in",
+    "leaving": "2026-07-20-out",
+    "kind": "transfer",
+    "known": "2026-07-20",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-07-21",
+    "arriving": "2026-07-21-in",
+    "leaving": "2026-07-21-out",
+    "kind": "transfer",
+    "known": "2026-07-21",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-07-22",
+    "arriving": "2026-07-22-in",
+    "leaving": "2026-07-22-out",
+    "kind": "transfer",
+    "known": "2026-07-22",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-07-23",
+    "arriving": "2026-07-23-in",
+    "leaving": "2026-07-23-out",
+    "kind": "transfer",
+    "known": "2026-07-23",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-07-24",
+    "arriving": "2026-07-24-in",
+    "leaving": "2026-07-24-out",
+    "kind": "transfer",
+    "known": "2026-07-24",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-07-26",
+    "arriving": "2026-07-26-in",
+    "leaving": "2026-07-26-out",
+    "kind": "transfer",
+    "known": "2026-07-26",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-07-28",
+    "arriving": "2026-07-28-in",
+    "leaving": "2026-07-28-out",
+    "kind": "transfer",
+    "known": "2026-07-28",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-07-29",
+    "arriving": "2026-07-29-in",
+    "leaving": "2026-07-29-out",
+    "kind": "transfer",
+    "known": "2026-07-01",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-07-30",
+    "arriving": "2026-07-30-in",
+    "leaving": "2026-07-30-out",
+    "kind": "transfer",
+    "known": "2026-07-02",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-07-32",
+    "arriving": "2026-07-32-in",
+    "leaving": "2026-07-32-out",
+    "kind": "transfer",
+    "known": "2026-07-04",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-07-33",
+    "arriving": "2026-07-33-in",
+    "leaving": "2026-07-33-out",
+    "kind": "transfer",
+    "known": "2026-07-05",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-07-34",
+    "arriving": "2026-07-34-in",
+    "leaving": "2026-07-34-out",
+    "kind": "transfer",
+    "known": "2026-07-06",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-07-35",
+    "arriving": "2026-07-35-in",
+    "leaving": "2026-07-35-out",
+    "kind": "transfer",
+    "known": "2026-07-07",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-07-36",
+    "arriving": "2026-07-36-in",
+    "leaving": "2026-07-36-out",
+    "kind": "transfer",
+    "known": "2026-07-08",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-07-38",
+    "arriving": "2026-07-38-in",
+    "leaving": "2026-07-38-out",
+    "kind": "transfer",
+    "known": "2026-07-10",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-07-39",
+    "arriving": "2026-07-39-in",
+    "leaving": "2026-07-39-out",
+    "kind": "transfer",
+    "known": "2026-07-11",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-07-41",
+    "arriving": "2026-07-41-in",
+    "leaving": "2026-07-41-out",
+    "kind": "transfer",
+    "known": "2026-07-13",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-07-42",
+    "arriving": "2026-07-42-in",
+    "leaving": "2026-07-42-out",
+    "kind": "transfer",
+    "known": "2026-07-14",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-07-44",
+    "arriving": "2026-07-44-in",
+    "leaving": "2026-07-44-out",
+    "kind": "transfer",
+    "known": "2026-07-16",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-07-45",
+    "arriving": "2026-07-45-in",
+    "leaving": "2026-07-45-out",
+    "kind": "transfer",
+    "known": "2026-07-17",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-07-46",
+    "arriving": "2026-07-46-in",
+    "leaving": "2026-07-46-out",
+    "kind": "transfer",
+    "known": "2026-07-18",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-07-47",
+    "arriving": "2026-07-47-in",
+    "leaving": "2026-07-47-out",
+    "kind": "transfer",
+    "known": "2026-07-19",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-07-48",
+    "arriving": "2026-07-48-in",
+    "leaving": "2026-07-48-out",
+    "kind": "transfer",
+    "known": "2026-07-20",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-07-50",
+    "arriving": "2026-07-50-in",
+    "leaving": "2026-07-50-out",
+    "kind": "transfer",
+    "known": "2026-07-22",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-07-51",
+    "arriving": "2026-07-51-in",
+    "leaving": "2026-07-51-out",
+    "kind": "transfer",
+    "known": "2026-07-23",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-07-52",
+    "arriving": "2026-07-52-in",
+    "leaving": "2026-07-52-out",
+    "kind": "transfer",
+    "known": "2026-07-24",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-07-54",
+    "arriving": "2026-07-54-in",
+    "leaving": "2026-07-54-out",
+    "kind": "transfer",
+    "known": "2026-07-26",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-07-56",
+    "arriving": "2026-07-56-in",
+    "leaving": "2026-07-56-out",
+    "kind": "transfer",
+    "known": "2026-07-28",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-07-57",
+    "arriving": "2026-07-57-in",
+    "leaving": "2026-07-57-out",
+    "kind": "transfer",
+    "known": "2026-07-01",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-07-58",
+    "arriving": "2026-07-58-in",
+    "leaving": "2026-07-58-out",
+    "kind": "transfer",
+    "known": "2026-07-02",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-07-59",
+    "arriving": "2026-07-59-in",
+    "leaving": "2026-07-59-out",
+    "kind": "transfer",
+    "known": "2026-07-03",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-07-60",
+    "arriving": "2026-07-60-in",
+    "leaving": "2026-07-60-out",
+    "kind": "transfer",
+    "known": "2026-07-04",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-07-62",
+    "arriving": "2026-07-62-in",
+    "leaving": "2026-07-62-out",
+    "kind": "transfer",
+    "known": "2026-07-06",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-07-63",
+    "arriving": "2026-07-63-in",
+    "leaving": "2026-07-63-out",
+    "kind": "transfer",
+    "known": "2026-07-07",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-07-64",
+    "arriving": "2026-07-64-in",
+    "leaving": "2026-07-64-out",
+    "kind": "transfer",
+    "known": "2026-07-08",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-08-02",
+    "arriving": "2026-08-02-in",
+    "leaving": "2026-08-02-out",
+    "kind": "transfer",
+    "known": "2026-08-02",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-08-03",
+    "arriving": "2026-08-03-in",
+    "leaving": "2026-08-03-out",
+    "kind": "transfer",
+    "known": "2026-08-03",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-08-04",
+    "arriving": "2026-08-04-in",
+    "leaving": "2026-08-04-out",
+    "kind": "transfer",
+    "known": "2026-08-04",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-08-05",
+    "arriving": "2026-08-05-in",
+    "leaving": "2026-08-05-out",
+    "kind": "transfer",
+    "known": "2026-08-05",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-08-06",
+    "arriving": "2026-08-06-in",
+    "leaving": "2026-08-06-out",
+    "kind": "transfer",
+    "known": "2026-08-06",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-08-08",
+    "arriving": "2026-08-08-in",
+    "leaving": "2026-08-08-out",
+    "kind": "transfer",
+    "known": "2026-08-08",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-08-09",
+    "arriving": "2026-08-09-in",
+    "leaving": "2026-08-09-out",
+    "kind": "transfer",
+    "known": "2026-08-09",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-08-10",
+    "arriving": "2026-08-10-in",
+    "leaving": "2026-08-10-out",
+    "kind": "transfer",
+    "known": "2026-08-10",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-08-11",
+    "arriving": "2026-08-11-in",
+    "leaving": "2026-08-11-out",
+    "kind": "transfer",
+    "known": "2026-08-11",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-08-12",
+    "arriving": "2026-08-12-in",
+    "leaving": "2026-08-12-out",
+    "kind": "transfer",
+    "known": "2026-08-12",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-08-15",
+    "arriving": "2026-08-15-in",
+    "leaving": "2026-08-15-out",
+    "kind": "transfer",
+    "known": "2026-08-15",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-08-16",
+    "arriving": "2026-08-16-in",
+    "leaving": "2026-08-16-out",
+    "kind": "transfer",
+    "known": "2026-08-16",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-08-17",
+    "arriving": "2026-08-17-in",
+    "leaving": "2026-08-17-out",
+    "kind": "transfer",
+    "known": "2026-08-17",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-08-18",
+    "arriving": "2026-08-18-in",
+    "leaving": "2026-08-18-out",
+    "kind": "transfer",
+    "known": "2026-08-18",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-08-20",
+    "arriving": "2026-08-20-in",
+    "leaving": "2026-08-20-out",
+    "kind": "transfer",
+    "known": "2026-08-20",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-08-21",
+    "arriving": "2026-08-21-in",
+    "leaving": "2026-08-21-out",
+    "kind": "transfer",
+    "known": "2026-08-21",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-08-22",
+    "arriving": "2026-08-22-in",
+    "leaving": "2026-08-22-out",
+    "kind": "transfer",
+    "known": "2026-08-22",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-08-23",
+    "arriving": "2026-08-23-in",
+    "leaving": "2026-08-23-out",
+    "kind": "transfer",
+    "known": "2026-08-23",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-08-24",
+    "arriving": "2026-08-24-in",
+    "leaving": "2026-08-24-out",
+    "kind": "transfer",
+    "known": "2026-08-24",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-08-26",
+    "arriving": "2026-08-26-in",
+    "leaving": "2026-08-26-out",
+    "kind": "transfer",
+    "known": "2026-08-26",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-08-28",
+    "arriving": "2026-08-28-in",
+    "leaving": "2026-08-28-out",
+    "kind": "transfer",
+    "known": "2026-08-28",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-08-29",
+    "arriving": "2026-08-29-in",
+    "leaving": "2026-08-29-out",
+    "kind": "transfer",
+    "known": "2026-08-01",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-08-30",
+    "arriving": "2026-08-30-in",
+    "leaving": "2026-08-30-out",
+    "kind": "transfer",
+    "known": "2026-08-02",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-08-32",
+    "arriving": "2026-08-32-in",
+    "leaving": "2026-08-32-out",
+    "kind": "transfer",
+    "known": "2026-08-04",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-08-33",
+    "arriving": "2026-08-33-in",
+    "leaving": "2026-08-33-out",
+    "kind": "transfer",
+    "known": "2026-08-05",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-08-34",
+    "arriving": "2026-08-34-in",
+    "leaving": "2026-08-34-out",
+    "kind": "transfer",
+    "known": "2026-08-06",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-08-35",
+    "arriving": "2026-08-35-in",
+    "leaving": "2026-08-35-out",
+    "kind": "transfer",
+    "known": "2026-08-07",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-08-36",
+    "arriving": "2026-08-36-in",
+    "leaving": "2026-08-36-out",
+    "kind": "transfer",
+    "known": "2026-08-08",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-08-38",
+    "arriving": "2026-08-38-in",
+    "leaving": "2026-08-38-out",
+    "kind": "transfer",
+    "known": "2026-08-10",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-08-39",
+    "arriving": "2026-08-39-in",
+    "leaving": "2026-08-39-out",
+    "kind": "transfer",
+    "known": "2026-08-11",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-08-41",
+    "arriving": "2026-08-41-in",
+    "leaving": "2026-08-41-out",
+    "kind": "transfer",
+    "known": "2026-08-13",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-08-42",
+    "arriving": "2026-08-42-in",
+    "leaving": "2026-08-42-out",
+    "kind": "transfer",
+    "known": "2026-08-14",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-08-44",
+    "arriving": "2026-08-44-in",
+    "leaving": "2026-08-44-out",
+    "kind": "transfer",
+    "known": "2026-08-16",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-08-45",
+    "arriving": "2026-08-45-in",
+    "leaving": "2026-08-45-out",
+    "kind": "transfer",
+    "known": "2026-08-17",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-08-46",
+    "arriving": "2026-08-46-in",
+    "leaving": "2026-08-46-out",
+    "kind": "transfer",
+    "known": "2026-08-18",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-08-47",
+    "arriving": "2026-08-47-in",
+    "leaving": "2026-08-47-out",
+    "kind": "transfer",
+    "known": "2026-08-19",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-08-48",
+    "arriving": "2026-08-48-in",
+    "leaving": "2026-08-48-out",
+    "kind": "transfer",
+    "known": "2026-08-20",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-08-50",
+    "arriving": "2026-08-50-in",
+    "leaving": "2026-08-50-out",
+    "kind": "transfer",
+    "known": "2026-08-22",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-08-51",
+    "arriving": "2026-08-51-in",
+    "leaving": "2026-08-51-out",
+    "kind": "transfer",
+    "known": "2026-08-23",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-08-52",
+    "arriving": "2026-08-52-in",
+    "leaving": "2026-08-52-out",
+    "kind": "transfer",
+    "known": "2026-08-24",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-08-54",
+    "arriving": "2026-08-54-in",
+    "leaving": "2026-08-54-out",
+    "kind": "transfer",
+    "known": "2026-08-26",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-08-56",
+    "arriving": "2026-08-56-in",
+    "leaving": "2026-08-56-out",
+    "kind": "transfer",
+    "known": "2026-08-28",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-08-57",
+    "arriving": "2026-08-57-in",
+    "leaving": "2026-08-57-out",
+    "kind": "transfer",
+    "known": "2026-08-01",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-08-58",
+    "arriving": "2026-08-58-in",
+    "leaving": "2026-08-58-out",
+    "kind": "transfer",
+    "known": "2026-08-02",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-08-59",
+    "arriving": "2026-08-59-in",
+    "leaving": "2026-08-59-out",
+    "kind": "transfer",
+    "known": "2026-08-03",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-08-60",
+    "arriving": "2026-08-60-in",
+    "leaving": "2026-08-60-out",
+    "kind": "transfer",
+    "known": "2026-08-04",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-08-62",
+    "arriving": "2026-08-62-in",
+    "leaving": "2026-08-62-out",
+    "kind": "transfer",
+    "known": "2026-08-06",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-08-63",
+    "arriving": "2026-08-63-in",
+    "leaving": "2026-08-63-out",
+    "kind": "transfer",
+    "known": "2026-08-07",
+    "replaces": null
+  },
+  {
+    "id": "l-2026-08-64",
+    "arriving": "2026-08-64-in",
+    "leaving": "2026-08-64-out",
+    "kind": "transfer",
+    "known": "2026-08-08",
+    "replaces": null
+  },
+  {
+    "id": "new-link-1",
+    "arriving": "2026-07-01-in",
+    "leaving": "2026-07-01-out",
+    "kind": "through",
+    "known": "2026-09-02",
+    "replaces": null
+  },
+  {
+    "id": "reclass-2",
+    "arriving": "2026-07-02-in",
+    "leaving": "2026-07-02-out",
+    "kind": "unknown",
+    "known": "2026-09-03",
+    "replaces": "l-2026-07-02"
+  }
+]

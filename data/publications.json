@@ -1,0 +1,37 @@
+[
+  {
+    "id": "old-a",
+    "issued": "2026-08-15",
+    "period": "2026-07",
+    "scope": {
+      "market": "east"
+    },
+    "dimensions": [
+      "market"
+    ],
+    "cohort": "transfer",
+    "exact_count": 10
+  },
+  {
+    "id": "old-b",
+    "issued": "2026-08-15",
+    "period": "2026-07",
+    "scope": {
+      "market": "west"
+    },
+    "dimensions": [
+      "market"
+    ],
+    "cohort": "transfer",
+    "exact_count": 19
+  },
+  {
+    "id": "old-c",
+    "issued": "2026-08-15",
+    "period": "2026-07",
+    "scope": {},
+    "dimensions": [],
+    "cohort": "transfer",
+    "exact_count": 49
+  }
+]

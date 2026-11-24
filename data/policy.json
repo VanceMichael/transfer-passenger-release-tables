@@ -1,0 +1,18 @@
+[
+  {
+    "id": "external",
+    "minimum_cell": 6,
+    "dimensions": [
+      "market",
+      "carrier",
+      "slot"
+    ],
+    "hierarchy": [
+      "market/carrier/slot",
+      "market/carrier",
+      "market",
+      "all"
+    ],
+    "track_zero": false
+  }
+]

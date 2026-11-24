@@ -1,0 +1,4098 @@
+[
+  {
+    "id": "2025-07-01-in",
+    "day": "2025-07-01",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-01-out",
+    "day": "2025-07-01",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-02-in",
+    "day": "2025-07-02",
+    "market": "west",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-02-out",
+    "day": "2025-07-02",
+    "market": "west",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-03-in",
+    "day": "2025-07-03",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "peak",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-03-out",
+    "day": "2025-07-03",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "peak",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-04-in",
+    "day": "2025-07-04",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "peak",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-04-out",
+    "day": "2025-07-04",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "peak",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-05-in",
+    "day": "2025-07-05",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-05-out",
+    "day": "2025-07-05",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-06-in",
+    "day": "2025-07-06",
+    "market": "local",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-06-out",
+    "day": "2025-07-06",
+    "market": "local",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-07-in",
+    "day": "2025-07-07",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-07-out",
+    "day": "2025-07-07",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-08-in",
+    "day": "2025-07-08",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-08-out",
+    "day": "2025-07-08",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-09-in",
+    "day": "2025-07-09",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-09-out",
+    "day": "2025-07-09",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-10-in",
+    "day": "2025-07-10",
+    "market": "east",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-10-out",
+    "day": "2025-07-10",
+    "market": "east",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-11-in",
+    "day": "2025-07-11",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-11-out",
+    "day": "2025-07-11",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-12-in",
+    "day": "2025-07-12",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "peak",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-12-out",
+    "day": "2025-07-12",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "peak",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-13-in",
+    "day": "2025-07-13",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-13-out",
+    "day": "2025-07-13",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-14-in",
+    "day": "2025-07-14",
+    "market": "west",
+    "carrier": "fly-b",
+    "slot": "peak",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-14-out",
+    "day": "2025-07-14",
+    "market": "west",
+    "carrier": "fly-b",
+    "slot": "peak",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-15-in",
+    "day": "2025-07-15",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-15-out",
+    "day": "2025-07-15",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-16-in",
+    "day": "2025-07-16",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-16-out",
+    "day": "2025-07-16",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-17-in",
+    "day": "2025-07-17",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-17-out",
+    "day": "2025-07-17",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-18-in",
+    "day": "2025-07-18",
+    "market": "local",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-18-out",
+    "day": "2025-07-18",
+    "market": "local",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-19-in",
+    "day": "2025-07-19",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-19-out",
+    "day": "2025-07-19",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-20-in",
+    "day": "2025-07-20",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-20-out",
+    "day": "2025-07-20",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-21-in",
+    "day": "2025-07-21",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-21-out",
+    "day": "2025-07-21",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-22-in",
+    "day": "2025-07-22",
+    "market": "east",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-22-out",
+    "day": "2025-07-22",
+    "market": "east",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-23-in",
+    "day": "2025-07-23",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-23-out",
+    "day": "2025-07-23",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-24-in",
+    "day": "2025-07-24",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-24-out",
+    "day": "2025-07-24",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-25-in",
+    "day": "2025-07-25",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "peak",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-25-out",
+    "day": "2025-07-25",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "peak",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-26-in",
+    "day": "2025-07-26",
+    "market": "west",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-26-out",
+    "day": "2025-07-26",
+    "market": "west",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-27-in",
+    "day": "2025-07-27",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-27-out",
+    "day": "2025-07-27",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-28-in",
+    "day": "2025-07-28",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "peak",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-28-out",
+    "day": "2025-07-28",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "peak",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-29-in",
+    "day": "2025-07-01",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-29-out",
+    "day": "2025-07-01",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-30-in",
+    "day": "2025-07-02",
+    "market": "local",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-30-out",
+    "day": "2025-07-02",
+    "market": "local",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-31-in",
+    "day": "2025-07-03",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-31-out",
+    "day": "2025-07-03",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-32-in",
+    "day": "2025-07-04",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-32-out",
+    "day": "2025-07-04",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-33-in",
+    "day": "2025-07-05",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-33-out",
+    "day": "2025-07-05",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-34-in",
+    "day": "2025-07-06",
+    "market": "east",
+    "carrier": "fly-b",
+    "slot": "peak",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-34-out",
+    "day": "2025-07-06",
+    "market": "east",
+    "carrier": "fly-b",
+    "slot": "peak",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-35-in",
+    "day": "2025-07-07",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-35-out",
+    "day": "2025-07-07",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-36-in",
+    "day": "2025-07-08",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-36-out",
+    "day": "2025-07-08",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-37-in",
+    "day": "2025-07-09",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-37-out",
+    "day": "2025-07-09",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-38-in",
+    "day": "2025-07-10",
+    "market": "west",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-38-out",
+    "day": "2025-07-10",
+    "market": "west",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-39-in",
+    "day": "2025-07-11",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-39-out",
+    "day": "2025-07-11",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-40-in",
+    "day": "2025-07-12",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-40-out",
+    "day": "2025-07-12",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-41-in",
+    "day": "2025-07-13",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-41-out",
+    "day": "2025-07-13",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-42-in",
+    "day": "2025-07-14",
+    "market": "local",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-42-out",
+    "day": "2025-07-14",
+    "market": "local",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-43-in",
+    "day": "2025-07-15",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-43-out",
+    "day": "2025-07-15",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-44-in",
+    "day": "2025-07-16",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-44-out",
+    "day": "2025-07-16",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-45-in",
+    "day": "2025-07-17",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-45-out",
+    "day": "2025-07-17",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-46-in",
+    "day": "2025-07-18",
+    "market": "east",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-46-out",
+    "day": "2025-07-18",
+    "market": "east",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-47-in",
+    "day": "2025-07-19",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-47-out",
+    "day": "2025-07-19",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-48-in",
+    "day": "2025-07-20",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-48-out",
+    "day": "2025-07-20",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-49-in",
+    "day": "2025-07-21",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-49-out",
+    "day": "2025-07-21",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-50-in",
+    "day": "2025-07-22",
+    "market": "west",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-50-out",
+    "day": "2025-07-22",
+    "market": "west",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-51-in",
+    "day": "2025-07-23",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-51-out",
+    "day": "2025-07-23",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-52-in",
+    "day": "2025-07-24",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-52-out",
+    "day": "2025-07-24",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-53-in",
+    "day": "2025-07-25",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-53-out",
+    "day": "2025-07-25",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-54-in",
+    "day": "2025-07-26",
+    "market": "local",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-54-out",
+    "day": "2025-07-26",
+    "market": "local",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-55-in",
+    "day": "2025-07-27",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-55-out",
+    "day": "2025-07-27",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-56-in",
+    "day": "2025-07-28",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-56-out",
+    "day": "2025-07-28",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-57-in",
+    "day": "2025-07-01",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-57-out",
+    "day": "2025-07-01",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-58-in",
+    "day": "2025-07-02",
+    "market": "east",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-58-out",
+    "day": "2025-07-02",
+    "market": "east",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-59-in",
+    "day": "2025-07-03",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-59-out",
+    "day": "2025-07-03",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-60-in",
+    "day": "2025-07-04",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-60-out",
+    "day": "2025-07-04",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-61-in",
+    "day": "2025-07-05",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-61-out",
+    "day": "2025-07-05",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-62-in",
+    "day": "2025-07-06",
+    "market": "west",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-62-out",
+    "day": "2025-07-06",
+    "market": "west",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-63-in",
+    "day": "2025-07-07",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-63-out",
+    "day": "2025-07-07",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-07-64-in",
+    "day": "2025-07-08",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-07-64-out",
+    "day": "2025-07-08",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-01-in",
+    "day": "2025-08-01",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-01-out",
+    "day": "2025-08-01",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-02-in",
+    "day": "2025-08-02",
+    "market": "west",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-02-out",
+    "day": "2025-08-02",
+    "market": "west",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-03-in",
+    "day": "2025-08-03",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "peak",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-03-out",
+    "day": "2025-08-03",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "peak",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-04-in",
+    "day": "2025-08-04",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "peak",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-04-out",
+    "day": "2025-08-04",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "peak",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-05-in",
+    "day": "2025-08-05",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-05-out",
+    "day": "2025-08-05",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-06-in",
+    "day": "2025-08-06",
+    "market": "local",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-06-out",
+    "day": "2025-08-06",
+    "market": "local",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-07-in",
+    "day": "2025-08-07",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-07-out",
+    "day": "2025-08-07",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-08-in",
+    "day": "2025-08-08",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-08-out",
+    "day": "2025-08-08",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-09-in",
+    "day": "2025-08-09",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-09-out",
+    "day": "2025-08-09",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-10-in",
+    "day": "2025-08-10",
+    "market": "east",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-10-out",
+    "day": "2025-08-10",
+    "market": "east",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-11-in",
+    "day": "2025-08-11",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-11-out",
+    "day": "2025-08-11",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-12-in",
+    "day": "2025-08-12",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "peak",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-12-out",
+    "day": "2025-08-12",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "peak",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-13-in",
+    "day": "2025-08-13",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-13-out",
+    "day": "2025-08-13",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-14-in",
+    "day": "2025-08-14",
+    "market": "west",
+    "carrier": "fly-b",
+    "slot": "peak",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-14-out",
+    "day": "2025-08-14",
+    "market": "west",
+    "carrier": "fly-b",
+    "slot": "peak",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-15-in",
+    "day": "2025-08-15",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-15-out",
+    "day": "2025-08-15",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-16-in",
+    "day": "2025-08-16",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-16-out",
+    "day": "2025-08-16",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-17-in",
+    "day": "2025-08-17",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-17-out",
+    "day": "2025-08-17",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-18-in",
+    "day": "2025-08-18",
+    "market": "local",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-18-out",
+    "day": "2025-08-18",
+    "market": "local",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-19-in",
+    "day": "2025-08-19",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-19-out",
+    "day": "2025-08-19",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-20-in",
+    "day": "2025-08-20",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-20-out",
+    "day": "2025-08-20",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-21-in",
+    "day": "2025-08-21",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-21-out",
+    "day": "2025-08-21",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-22-in",
+    "day": "2025-08-22",
+    "market": "east",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-22-out",
+    "day": "2025-08-22",
+    "market": "east",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-23-in",
+    "day": "2025-08-23",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-23-out",
+    "day": "2025-08-23",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-24-in",
+    "day": "2025-08-24",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-24-out",
+    "day": "2025-08-24",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-25-in",
+    "day": "2025-08-25",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "peak",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-25-out",
+    "day": "2025-08-25",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "peak",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-26-in",
+    "day": "2025-08-26",
+    "market": "west",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-26-out",
+    "day": "2025-08-26",
+    "market": "west",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-27-in",
+    "day": "2025-08-27",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-27-out",
+    "day": "2025-08-27",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-28-in",
+    "day": "2025-08-28",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "peak",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-28-out",
+    "day": "2025-08-28",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "peak",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-29-in",
+    "day": "2025-08-01",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-29-out",
+    "day": "2025-08-01",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-30-in",
+    "day": "2025-08-02",
+    "market": "local",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-30-out",
+    "day": "2025-08-02",
+    "market": "local",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-31-in",
+    "day": "2025-08-03",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-31-out",
+    "day": "2025-08-03",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-32-in",
+    "day": "2025-08-04",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-32-out",
+    "day": "2025-08-04",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-33-in",
+    "day": "2025-08-05",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-33-out",
+    "day": "2025-08-05",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-34-in",
+    "day": "2025-08-06",
+    "market": "east",
+    "carrier": "fly-b",
+    "slot": "peak",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-34-out",
+    "day": "2025-08-06",
+    "market": "east",
+    "carrier": "fly-b",
+    "slot": "peak",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-35-in",
+    "day": "2025-08-07",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-35-out",
+    "day": "2025-08-07",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-36-in",
+    "day": "2025-08-08",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-36-out",
+    "day": "2025-08-08",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-37-in",
+    "day": "2025-08-09",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-37-out",
+    "day": "2025-08-09",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-38-in",
+    "day": "2025-08-10",
+    "market": "west",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-38-out",
+    "day": "2025-08-10",
+    "market": "west",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-39-in",
+    "day": "2025-08-11",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-39-out",
+    "day": "2025-08-11",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-40-in",
+    "day": "2025-08-12",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-40-out",
+    "day": "2025-08-12",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-41-in",
+    "day": "2025-08-13",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-41-out",
+    "day": "2025-08-13",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-42-in",
+    "day": "2025-08-14",
+    "market": "local",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-42-out",
+    "day": "2025-08-14",
+    "market": "local",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-43-in",
+    "day": "2025-08-15",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-43-out",
+    "day": "2025-08-15",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-44-in",
+    "day": "2025-08-16",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-44-out",
+    "day": "2025-08-16",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-45-in",
+    "day": "2025-08-17",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-45-out",
+    "day": "2025-08-17",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-46-in",
+    "day": "2025-08-18",
+    "market": "east",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-46-out",
+    "day": "2025-08-18",
+    "market": "east",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-47-in",
+    "day": "2025-08-19",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-47-out",
+    "day": "2025-08-19",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-48-in",
+    "day": "2025-08-20",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-48-out",
+    "day": "2025-08-20",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-49-in",
+    "day": "2025-08-21",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-49-out",
+    "day": "2025-08-21",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-50-in",
+    "day": "2025-08-22",
+    "market": "west",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-50-out",
+    "day": "2025-08-22",
+    "market": "west",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-51-in",
+    "day": "2025-08-23",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-51-out",
+    "day": "2025-08-23",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-52-in",
+    "day": "2025-08-24",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-52-out",
+    "day": "2025-08-24",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-53-in",
+    "day": "2025-08-25",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-53-out",
+    "day": "2025-08-25",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-54-in",
+    "day": "2025-08-26",
+    "market": "local",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-54-out",
+    "day": "2025-08-26",
+    "market": "local",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-55-in",
+    "day": "2025-08-27",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-55-out",
+    "day": "2025-08-27",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-56-in",
+    "day": "2025-08-28",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-56-out",
+    "day": "2025-08-28",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-57-in",
+    "day": "2025-08-01",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-57-out",
+    "day": "2025-08-01",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-58-in",
+    "day": "2025-08-02",
+    "market": "east",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-58-out",
+    "day": "2025-08-02",
+    "market": "east",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-59-in",
+    "day": "2025-08-03",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-59-out",
+    "day": "2025-08-03",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-60-in",
+    "day": "2025-08-04",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-60-out",
+    "day": "2025-08-04",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-61-in",
+    "day": "2025-08-05",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-61-out",
+    "day": "2025-08-05",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-62-in",
+    "day": "2025-08-06",
+    "market": "west",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-62-out",
+    "day": "2025-08-06",
+    "market": "west",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-63-in",
+    "day": "2025-08-07",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-63-out",
+    "day": "2025-08-07",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2025-08-64-in",
+    "day": "2025-08-08",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2025-08-64-out",
+    "day": "2025-08-08",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-01-in",
+    "day": "2026-07-01",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-01-out",
+    "day": "2026-07-01",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-02-in",
+    "day": "2026-07-02",
+    "market": "west",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-02-out",
+    "day": "2026-07-02",
+    "market": "west",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-03-in",
+    "day": "2026-07-03",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "peak",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-03-out",
+    "day": "2026-07-03",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "peak",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-04-in",
+    "day": "2026-07-04",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "peak",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-04-out",
+    "day": "2026-07-04",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "peak",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-05-in",
+    "day": "2026-07-05",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-05-out",
+    "day": "2026-07-05",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-06-in",
+    "day": "2026-07-06",
+    "market": "local",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-06-out",
+    "day": "2026-07-06",
+    "market": "local",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-07-in",
+    "day": "2026-07-07",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-07-out",
+    "day": "2026-07-07",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-08-in",
+    "day": "2026-07-08",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-08-out",
+    "day": "2026-07-08",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-09-in",
+    "day": "2026-07-09",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-09-out",
+    "day": "2026-07-09",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-10-in",
+    "day": "2026-07-10",
+    "market": "east",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-10-out",
+    "day": "2026-07-10",
+    "market": "east",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-11-in",
+    "day": "2026-07-11",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-11-out",
+    "day": "2026-07-11",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-12-in",
+    "day": "2026-07-12",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "peak",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-12-out",
+    "day": "2026-07-12",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "peak",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-13-in",
+    "day": "2026-07-13",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-13-out",
+    "day": "2026-07-13",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-14-in",
+    "day": "2026-07-14",
+    "market": "west",
+    "carrier": "fly-b",
+    "slot": "peak",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-14-out",
+    "day": "2026-07-14",
+    "market": "west",
+    "carrier": "fly-b",
+    "slot": "peak",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-15-in",
+    "day": "2026-07-15",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-15-out",
+    "day": "2026-07-15",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-16-in",
+    "day": "2026-07-16",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-16-out",
+    "day": "2026-07-16",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-17-in",
+    "day": "2026-07-17",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-17-out",
+    "day": "2026-07-17",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-18-in",
+    "day": "2026-07-18",
+    "market": "local",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-18-out",
+    "day": "2026-07-18",
+    "market": "local",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-19-in",
+    "day": "2026-07-19",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-19-out",
+    "day": "2026-07-19",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-20-in",
+    "day": "2026-07-20",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-20-out",
+    "day": "2026-07-20",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-21-in",
+    "day": "2026-07-21",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-21-out",
+    "day": "2026-07-21",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-22-in",
+    "day": "2026-07-22",
+    "market": "east",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-22-out",
+    "day": "2026-07-22",
+    "market": "east",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-23-in",
+    "day": "2026-07-23",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-23-out",
+    "day": "2026-07-23",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-24-in",
+    "day": "2026-07-24",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-24-out",
+    "day": "2026-07-24",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-25-in",
+    "day": "2026-07-25",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "peak",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-25-out",
+    "day": "2026-07-25",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "peak",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-26-in",
+    "day": "2026-07-26",
+    "market": "west",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-26-out",
+    "day": "2026-07-26",
+    "market": "west",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-27-in",
+    "day": "2026-07-27",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-27-out",
+    "day": "2026-07-27",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-28-in",
+    "day": "2026-07-28",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "peak",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-28-out",
+    "day": "2026-07-28",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "peak",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-29-in",
+    "day": "2026-07-01",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-29-out",
+    "day": "2026-07-01",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-30-in",
+    "day": "2026-07-02",
+    "market": "local",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-30-out",
+    "day": "2026-07-02",
+    "market": "local",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-31-in",
+    "day": "2026-07-03",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-31-out",
+    "day": "2026-07-03",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-32-in",
+    "day": "2026-07-04",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-32-out",
+    "day": "2026-07-04",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-33-in",
+    "day": "2026-07-05",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-33-out",
+    "day": "2026-07-05",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-34-in",
+    "day": "2026-07-06",
+    "market": "east",
+    "carrier": "fly-b",
+    "slot": "peak",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-34-out",
+    "day": "2026-07-06",
+    "market": "east",
+    "carrier": "fly-b",
+    "slot": "peak",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-35-in",
+    "day": "2026-07-07",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-35-out",
+    "day": "2026-07-07",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-36-in",
+    "day": "2026-07-08",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-36-out",
+    "day": "2026-07-08",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-37-in",
+    "day": "2026-07-09",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-37-out",
+    "day": "2026-07-09",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-38-in",
+    "day": "2026-07-10",
+    "market": "west",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-38-out",
+    "day": "2026-07-10",
+    "market": "west",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-39-in",
+    "day": "2026-07-11",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-39-out",
+    "day": "2026-07-11",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-40-in",
+    "day": "2026-07-12",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-40-out",
+    "day": "2026-07-12",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-41-in",
+    "day": "2026-07-13",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-41-out",
+    "day": "2026-07-13",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-42-in",
+    "day": "2026-07-14",
+    "market": "local",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-42-out",
+    "day": "2026-07-14",
+    "market": "local",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-43-in",
+    "day": "2026-07-15",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-43-out",
+    "day": "2026-07-15",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-44-in",
+    "day": "2026-07-16",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-44-out",
+    "day": "2026-07-16",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-45-in",
+    "day": "2026-07-17",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-45-out",
+    "day": "2026-07-17",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-46-in",
+    "day": "2026-07-18",
+    "market": "east",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-46-out",
+    "day": "2026-07-18",
+    "market": "east",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-47-in",
+    "day": "2026-07-19",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-47-out",
+    "day": "2026-07-19",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-48-in",
+    "day": "2026-07-20",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-48-out",
+    "day": "2026-07-20",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-49-in",
+    "day": "2026-07-21",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-49-out",
+    "day": "2026-07-21",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-50-in",
+    "day": "2026-07-22",
+    "market": "west",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-50-out",
+    "day": "2026-07-22",
+    "market": "west",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-51-in",
+    "day": "2026-07-23",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-51-out",
+    "day": "2026-07-23",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-52-in",
+    "day": "2026-07-24",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-52-out",
+    "day": "2026-07-24",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-53-in",
+    "day": "2026-07-25",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-53-out",
+    "day": "2026-07-25",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-54-in",
+    "day": "2026-07-26",
+    "market": "local",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-54-out",
+    "day": "2026-07-26",
+    "market": "local",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-55-in",
+    "day": "2026-07-27",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-55-out",
+    "day": "2026-07-27",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-56-in",
+    "day": "2026-07-28",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-56-out",
+    "day": "2026-07-28",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-57-in",
+    "day": "2026-07-01",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-57-out",
+    "day": "2026-07-01",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-58-in",
+    "day": "2026-07-02",
+    "market": "east",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-58-out",
+    "day": "2026-07-02",
+    "market": "east",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-59-in",
+    "day": "2026-07-03",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-59-out",
+    "day": "2026-07-03",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-60-in",
+    "day": "2026-07-04",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-60-out",
+    "day": "2026-07-04",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-61-in",
+    "day": "2026-07-05",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-61-out",
+    "day": "2026-07-05",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-62-in",
+    "day": "2026-07-06",
+    "market": "west",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-62-out",
+    "day": "2026-07-06",
+    "market": "west",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-63-in",
+    "day": "2026-07-07",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-63-out",
+    "day": "2026-07-07",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-07-64-in",
+    "day": "2026-07-08",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-07-64-out",
+    "day": "2026-07-08",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-01-in",
+    "day": "2026-08-01",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-01-out",
+    "day": "2026-08-01",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-02-in",
+    "day": "2026-08-02",
+    "market": "west",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-02-out",
+    "day": "2026-08-02",
+    "market": "west",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-03-in",
+    "day": "2026-08-03",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "peak",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-03-out",
+    "day": "2026-08-03",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "peak",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-04-in",
+    "day": "2026-08-04",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "peak",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-04-out",
+    "day": "2026-08-04",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "peak",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-05-in",
+    "day": "2026-08-05",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-05-out",
+    "day": "2026-08-05",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-06-in",
+    "day": "2026-08-06",
+    "market": "local",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-06-out",
+    "day": "2026-08-06",
+    "market": "local",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-07-in",
+    "day": "2026-08-07",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-07-out",
+    "day": "2026-08-07",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-08-in",
+    "day": "2026-08-08",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-08-out",
+    "day": "2026-08-08",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-09-in",
+    "day": "2026-08-09",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-09-out",
+    "day": "2026-08-09",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-10-in",
+    "day": "2026-08-10",
+    "market": "east",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-10-out",
+    "day": "2026-08-10",
+    "market": "east",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-11-in",
+    "day": "2026-08-11",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-11-out",
+    "day": "2026-08-11",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-12-in",
+    "day": "2026-08-12",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "peak",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-12-out",
+    "day": "2026-08-12",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "peak",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-13-in",
+    "day": "2026-08-13",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-13-out",
+    "day": "2026-08-13",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-14-in",
+    "day": "2026-08-14",
+    "market": "west",
+    "carrier": "fly-b",
+    "slot": "peak",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-14-out",
+    "day": "2026-08-14",
+    "market": "west",
+    "carrier": "fly-b",
+    "slot": "peak",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-15-in",
+    "day": "2026-08-15",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-15-out",
+    "day": "2026-08-15",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-16-in",
+    "day": "2026-08-16",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-16-out",
+    "day": "2026-08-16",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-17-in",
+    "day": "2026-08-17",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-17-out",
+    "day": "2026-08-17",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-18-in",
+    "day": "2026-08-18",
+    "market": "local",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-18-out",
+    "day": "2026-08-18",
+    "market": "local",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-19-in",
+    "day": "2026-08-19",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-19-out",
+    "day": "2026-08-19",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-20-in",
+    "day": "2026-08-20",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-20-out",
+    "day": "2026-08-20",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-21-in",
+    "day": "2026-08-21",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-21-out",
+    "day": "2026-08-21",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-22-in",
+    "day": "2026-08-22",
+    "market": "east",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-22-out",
+    "day": "2026-08-22",
+    "market": "east",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-23-in",
+    "day": "2026-08-23",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-23-out",
+    "day": "2026-08-23",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-24-in",
+    "day": "2026-08-24",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-24-out",
+    "day": "2026-08-24",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-25-in",
+    "day": "2026-08-25",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "peak",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-25-out",
+    "day": "2026-08-25",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "peak",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-26-in",
+    "day": "2026-08-26",
+    "market": "west",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-26-out",
+    "day": "2026-08-26",
+    "market": "west",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-27-in",
+    "day": "2026-08-27",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-27-out",
+    "day": "2026-08-27",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-28-in",
+    "day": "2026-08-28",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "peak",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-28-out",
+    "day": "2026-08-28",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "peak",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-29-in",
+    "day": "2026-08-01",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-29-out",
+    "day": "2026-08-01",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-30-in",
+    "day": "2026-08-02",
+    "market": "local",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-30-out",
+    "day": "2026-08-02",
+    "market": "local",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-31-in",
+    "day": "2026-08-03",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-31-out",
+    "day": "2026-08-03",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-32-in",
+    "day": "2026-08-04",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-32-out",
+    "day": "2026-08-04",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-33-in",
+    "day": "2026-08-05",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-33-out",
+    "day": "2026-08-05",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-34-in",
+    "day": "2026-08-06",
+    "market": "east",
+    "carrier": "fly-b",
+    "slot": "peak",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-34-out",
+    "day": "2026-08-06",
+    "market": "east",
+    "carrier": "fly-b",
+    "slot": "peak",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-35-in",
+    "day": "2026-08-07",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-35-out",
+    "day": "2026-08-07",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-36-in",
+    "day": "2026-08-08",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-36-out",
+    "day": "2026-08-08",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-37-in",
+    "day": "2026-08-09",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-37-out",
+    "day": "2026-08-09",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-38-in",
+    "day": "2026-08-10",
+    "market": "west",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-38-out",
+    "day": "2026-08-10",
+    "market": "west",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-39-in",
+    "day": "2026-08-11",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-39-out",
+    "day": "2026-08-11",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-40-in",
+    "day": "2026-08-12",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-40-out",
+    "day": "2026-08-12",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-41-in",
+    "day": "2026-08-13",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-41-out",
+    "day": "2026-08-13",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-42-in",
+    "day": "2026-08-14",
+    "market": "local",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-42-out",
+    "day": "2026-08-14",
+    "market": "local",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-43-in",
+    "day": "2026-08-15",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-43-out",
+    "day": "2026-08-15",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-44-in",
+    "day": "2026-08-16",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-44-out",
+    "day": "2026-08-16",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-45-in",
+    "day": "2026-08-17",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-45-out",
+    "day": "2026-08-17",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-46-in",
+    "day": "2026-08-18",
+    "market": "east",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-46-out",
+    "day": "2026-08-18",
+    "market": "east",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-47-in",
+    "day": "2026-08-19",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-47-out",
+    "day": "2026-08-19",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-48-in",
+    "day": "2026-08-20",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-48-out",
+    "day": "2026-08-20",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-49-in",
+    "day": "2026-08-21",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-49-out",
+    "day": "2026-08-21",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-50-in",
+    "day": "2026-08-22",
+    "market": "west",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-50-out",
+    "day": "2026-08-22",
+    "market": "west",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-51-in",
+    "day": "2026-08-23",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-51-out",
+    "day": "2026-08-23",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-52-in",
+    "day": "2026-08-24",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-52-out",
+    "day": "2026-08-24",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-53-in",
+    "day": "2026-08-25",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-53-out",
+    "day": "2026-08-25",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-54-in",
+    "day": "2026-08-26",
+    "market": "local",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-54-out",
+    "day": "2026-08-26",
+    "market": "local",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-55-in",
+    "day": "2026-08-27",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-55-out",
+    "day": "2026-08-27",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-56-in",
+    "day": "2026-08-28",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-56-out",
+    "day": "2026-08-28",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-57-in",
+    "day": "2026-08-01",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-57-out",
+    "day": "2026-08-01",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-58-in",
+    "day": "2026-08-02",
+    "market": "east",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-58-out",
+    "day": "2026-08-02",
+    "market": "east",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-59-in",
+    "day": "2026-08-03",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-59-out",
+    "day": "2026-08-03",
+    "market": "west",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-60-in",
+    "day": "2026-08-04",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-60-out",
+    "day": "2026-08-04",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-61-in",
+    "day": "2026-08-05",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-61-out",
+    "day": "2026-08-05",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-62-in",
+    "day": "2026-08-06",
+    "market": "west",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-62-out",
+    "day": "2026-08-06",
+    "market": "west",
+    "carrier": "fly-b",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-63-in",
+    "day": "2026-08-07",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-63-out",
+    "day": "2026-08-07",
+    "market": "local",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  },
+  {
+    "id": "2026-08-64-in",
+    "day": "2026-08-08",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "arrive"
+  },
+  {
+    "id": "2026-08-64-out",
+    "day": "2026-08-08",
+    "market": "east",
+    "carrier": "fly-a",
+    "slot": "off",
+    "direction": "depart"
+  }
+]
